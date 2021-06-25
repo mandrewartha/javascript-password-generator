@@ -7,3 +7,4 @@ This random password generator was created by combining HTML, CSS, and JavaScrip
 ![image](https://user-images.githubusercontent.com/84876493/123358173-d50c7d00-d51f-11eb-8e0e-e647c29ba88a.png)
 
 # Link
+https://mandrewartha.github.io/javascript-password-generator/
